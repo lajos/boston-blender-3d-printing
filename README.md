@@ -33,13 +33,13 @@ Materials for Boston Blender 3d printing meetup.
 
 ## Shortcuts
 
-For shortcuts please see the [Shortcuts section](https://github.com/lajos/boston-blender-character-modeling#Shortcuts) in the character modeling repo.
+For shortcuts, please see the [Shortcuts section](https://github.com/lajos/boston-blender-character-modeling#Shortcuts) in the character modeling repo.
 
 ---
 
 ## User Preferences
 
-For user preferences please see the [User Preferences section](https://github.com/lajos/boston-blender-character-modeling#User-Preferences) in the character modeling repo.
+For user preferences, please see the [User Preferences section](https://github.com/lajos/boston-blender-character-modeling#User-Preferences) in the character modeling repo.
 
 ---
 
@@ -62,7 +62,7 @@ To reset an object's location/rotation to 0.0 or scale to 1.0, use the **Object/
 
 ### Grid Snapping
 
-Grid snapping is very useful to move objects or components with precision. Toggle snapping with the **magnet** icon in the viewport (**shift-TAB** shortcut). In the snapping options menu (**ruler** icon next to **magnet**) there is an option whether to snap to the grid incrementally or absolutely.
+Grid snapping is very useful to move objects or components with precision. Turn snapping on/off with the **magnet** icon in the viewport (**shift-TAB** shortcut). In the snapping options menu (**ruler** icon next to **magnet**), you have the option to snap to the grid either incrementally or absolutely.
 
 ![grid snapping](images/grid_snapping.gif)
 
@@ -77,8 +77,8 @@ The **measure tool** can measure distances and angles. Hold down **ctrl** to sna
 Combine meshes or cut parts out of a mesh using the **boolean modifier**:
 
 * **difference**: subtract a mesh from another mesh (for example hole for a screw)
-* **union**: add meshes togehter
-* **intersect**: cut part of an mesh that intersects with another (opposite of **difference**)
+* **union**: add meshes together
+* **intersect**: cut part of a mesh that intersects with another (opposite of **difference**)
 
 Add the **boolean modifier** in the **modifier panel** (wrench icon). Select the the other object with the **eye dropper**. Select the desired operation (difference/union/intersect).
 
@@ -86,7 +86,7 @@ Add the **boolean modifier** in the **modifier panel** (wrench icon). Select the
 
 ### Bevel
 
-The **bevel** tool chamfers or rounds edges. In **edit mode** select the desired edges and activate the **Bevel Edges** tool from the **Edges** menu (**ctrl-B** shortcut). Set the  bevel size by moving the mouse, increase bevel resolution with the mouse wheel.
+The **bevel** tool chamfers or rounds edges. In **edit mode**, select the desired edges and activate the **Bevel Edges** tool from the **Edges** menu (**ctrl-B** shortcut). Set the  bevel size by moving the mouse. Increase bevel resolution with the mouse wheel.
 
 ![bevel](images/bevel.gif)
 
