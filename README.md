@@ -27,6 +27,8 @@ Materials for Boston Blender 3d printing meetup.
 | --- | --- |
 | **model/shapes.blend** | base meshes for modeling |
 | **model/light_knob.blend** | light switch knob |
+| **model/hinge.blend** | hinge |
+| **model/hinge_all_in_one.blend** | hinge printed in one, no bolt required|
 | **model/coat-hook.stl** | cubicle coat hook by [bharris555 from thingiverse](https://www.thingiverse.com/thing:3772435) |
 
 ---
